@@ -1,5 +1,4 @@
 <?php
 
-phpinfo();
+require_once "./model/functions.php";
 
-echo "1";
